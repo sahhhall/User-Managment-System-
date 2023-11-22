@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Arimo:wght@700&family=Bebas+Neue&family=Gabarito:wght@400;500&family=Libre+Caslon+Text&family=Montserrat:wght@100&family=Mulish:wght@300&family=Quicksand&family=Rubik&display=swap');
+
+/* .bg-home{
+    
+    margin-top: -15px;
+    width: 100%;
+    height: 1000px;
+    background-image: url('/assets/header.jpg');
+} */
+
+/* navbar */
+#sahal{
+    font-family: 'Gabarito', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+    letter-spacing: 10px;
+}
+
+#loggo{
+    font-family: 'Gabarito', sans-serif;
+    letter-spacing: 1px;
+}
+
+
+/* for caRD  */
+.main-cont{
+   width: 90%;
+  
+
+
+}
+.card-text h5{
+    font-family: 'Gabarito', sans-serif;
+}
+.btn-card{
+    font-family: 'Gabarito', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.desc{
+    font-family: 'Quicksand', sans-serif;
+    font-size: .7em;
+    letter-spacing: .2em;
+}
+.this-gap{
+    display: flex;
+    
+  
+}
+.card-for{
+    margin-top: 4px;
+}
+.p-check{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 12px;
+    align-items: center;
+    
+}
+::placeholder {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 12px;
+    align-items: center;
+  }
+  .bt-reg{
+    font-family: 'Gabarito', sans-serif;
+    letter-spacing: 2px;
+  }
+  .haha{
+    margin-top: -50px;
+  }
+
+.edit-alert{
+    margin-right: 100px;
+}
+
+
+  /* table  text  */
+  .tab{
+    font-family: 'Gabarito', sans-serif;
+  }
+.table-t th{
+    font-family: 'Gabarito', sans-serif;
+}
+  .table-t{
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 3px;
+    margin-left: 15%;
+  }
+.t-1{
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 3px;
+}
+
+
+
+
+
+
+
+
+.alert-reg{
+  margin-left: 600px !important ;
+ margin-top: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
